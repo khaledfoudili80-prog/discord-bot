@@ -1,0 +1,29 @@
+{
+ "ticket_panel_1499896417118978128_support": {
+  "id": "support",
+  "text": "اضغط تحت واختر القسم",
+  "image": null,
+  "placeholder": "اختار القسم",
+  "ticketMsg": null,
+  "catId": null,
+  "roleId": null,
+  "logChannelId": null,
+  "options": [
+   {
+    "label": "دعم فني",
+    "value": "بلاغ",
+    "description": "🛠️"
+   }
+  ],
+  "channelId": null,
+  "messageId": null
+ },
+ "ticket_panels_1499896417118978128": [
+  "support"
+ ],
+ "mute_1457106908778467511": {
+  "by": "1396060394132475984",
+  "reason": "1h",
+  "time": "1m"
+ }
+}
